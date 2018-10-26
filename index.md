@@ -6,7 +6,7 @@ El siguiente manual de [Shopify](https://shopify.com) es una introducción infor
 
 ### Indice
 
-1. Que es Shopify?
+1. [Que es Shopify?](/pages/que-es-shopify.html)
 2. Liquid, el sistema de template.
 3. Como iniciar un proyecto + workflow de @getmoremx.
     * Estructura del workflow y como iniciarlo.

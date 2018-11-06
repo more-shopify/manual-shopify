@@ -10,7 +10,7 @@ El siguiente manual de [Shopify](https://shopify.com) es una introducción infor
 2. [Liquid, el sistema de template.](que-es-liquid.md)
 3. Como iniciar un proyecto + workflow de @getmoremx.
     * Estructura del workflow y como iniciarlo.
-    * ThemeKit.
+    * [Shopify Theme Kit.](themekit-instalar.md)
 4. Incluir nuestros archivos de estilos, scripts y plugins de terceros.
 5. Iniciar la maquetacion.
     * Hola Mundo! (Pages Shopify)

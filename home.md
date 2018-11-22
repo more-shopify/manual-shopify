@@ -1,4 +1,4 @@
-## Home
+# Home
 El homepage es la primera página que aparece cuando ingresamos al sitio.  Está compuesta normalmente por secciones como *menu, cover, featured collection, collection list y footer.*
 
 ### Menú
@@ -9,8 +9,9 @@ El archivo donde se puede editar la estructura de esta sección se encuentra en 
 La configuración de la posición (fija o relativa), la transparencia, color, acomodo de elementos y demás opciones se hace desde el panel de administración. Para cada una de estas opciones existen flujos y condicionales de código en el mismo archivo `header.liquid`.
 
 Existen dos listas de enlaces: 
-	• Desktop: está dentro del contenedor `<header class="site-header">`
-	• Móvil: está en un *snippet* que se puede consultar en `snippets/mobile-nav.liquid`
+	
+	* Desktop: está dentro del contenedor `<header class="site-header">`
+	* Móvil: está en un *snippet* que se puede consultar en `snippets/mobile-nav.liquid`
 
 Cada uno con estilos diferentes tanto en estructura como en los enlaces.
 

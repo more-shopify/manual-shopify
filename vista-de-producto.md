@@ -44,7 +44,7 @@ Si seguimos al pie de la letra [este artículo oficial de Shopify](https://help.
 #### Templates avanzados
 Los templates avanzados contienen módulos y subvenciones de información que necesitan ser autoadministrables y cuyo contenido debe ser introducido en la descripción del producto y requiere del siguiente proceso:
 
-A modo de ejemplo, supongamos lo siguiente:
+*A modo de ejemplo, supongamos lo siguiente:
 	* El diseño a maquetar es: 
 ![](Tesis%20Shopify/Captura%20de%20pantalla%202018-11-22%20a%20la(s)%2013.56.53.png)
 	* La información de **salidas** y **regreso** debe ser autoadministrable.

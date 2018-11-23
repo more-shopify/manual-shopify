@@ -3,7 +3,7 @@ La vista de producto por defecto tiene la información y características esenci
 
 Para crear un nuevo template de producto, podemos seguir los pasos de [este tutorial oficial de Shopify](https://help.shopify.com/en/themes/customization/store/create-alternate-templates)
 
-A modo de ejemplo, supongamos lo siguiente:	
+* A modo de ejemplo, supongamos lo siguiente:	
 	* Nuestro nuevo **template** tiene como nombre: `product.alternate`
 	* Nuestra nueva **sección** tiene como nombre: `product-alternate-template`.
 

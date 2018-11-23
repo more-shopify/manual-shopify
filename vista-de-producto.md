@@ -42,12 +42,11 @@ En el panel de administración de la tienda, en el apartado `Settings > Notifica
 Si seguimos al pie de la letra [este artículo oficial de Shopify](https://help.shopify.com/en/themes/customization/products/features/get-customization-information-for-products#show-customizations-in-email-templates-sectioned-themes-specific), podremos lograr que todos los valores de los campos extra de formulario se muestren en este correo electrónico.
 
 #### Templates avanzados
-La información que vaya a quedar fija y se repita en cada producto puede ser maquetada directamente en la nueva sección.
-
-La información que necesite ser autoadministrable debe ser introducida en la descripción del producto y requiere del siguiente proceso:
+Los templates avanzados contienen módulos y subvenciones de información que necesitan ser autoadministrables y cuyo contenido debe ser introducido en la descripción del producto y requiere del siguiente proceso:
 
 A modo de ejemplo, supongamos lo siguiente:
 	* El diseño a maquetar es: 
+![](Tesis%20Shopify/Captura%20de%20pantalla%202018-11-22%20a%20la(s)%2013.56.53.png)
 	* La información de **salidas** y **regreso** debe ser autoadministrable.
 	
 Como primer paso, en la descripción del producto escribiremos como *Heading 1* el título del bloque de información, en este caso el título del bloque sería **Horarios**. A continuación ingresaremos la información correspondiente a ese bloque (en este caso salidas y llegadas).

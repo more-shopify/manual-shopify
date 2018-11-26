@@ -72,3 +72,5 @@ Es decir que si nuestro *Heading 1* dice **Horarios**, el atributo `data` deber�
 Con esta metodología es posible ejecutar diseños personalizados en la vista de producto sin perder la característica de autoadministrar la información.
 
 [Aquí un ejemplo de una vista de producto personalizada](https://vagandopormexico.myshopify.com/products/sierra-gorda)
+
+> Nota: Si todo esto de la vista de producto te está estresando puedes ir a preparar palomitas, solo tienes que sacarlas del empaque y ponerle 2:35 minutos en el microondas y listo. 
